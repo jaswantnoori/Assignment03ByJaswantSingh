@@ -30,7 +30,7 @@ public class Assingment3 {
 			totalRolls = totalRolls + diceRolls[index];
 		}
 		System.out.println("Total rolls were: " + totalRolls);
-		System.out.println("New Project Assignment03 Jaswant Singh with main method");
+		System.out.println("New Project Assignment03 Jaswant Singh Bugs fixed");
 
 	}
 
